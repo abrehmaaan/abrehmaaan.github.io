@@ -23,8 +23,7 @@
     <div class="container">
         <div class="row mb-2 mt-3">
             <div class="col-4 col-md-3 col-lg-2">
-                <svg class="placeholder" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Pro 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M256 288A144 144 0 1 0 256 0a144 144 0 1 0 0 288zm-94.7 32C72.2 320 0 392.2 0 481.3c0 17 13.8 30.7 30.7 30.7H481.3c17 0 30.7-13.8 30.7-30.7C512 392.2 439.8 320 350.7 320H161.3z"/></svg>
-                <img src="resources/photo.png" alt="abrehmaaan" class="img-thumbnail" id="profileImage" />
+                <img src="resources/photo.png" alt="abrehmaaan" class="img-thumbnail" />
             </div>
             <div class="col-8 col-md-9 col-lg-10 my-auto">
                 <h1>Abdul Rehman</h1>
@@ -242,21 +241,18 @@
     </div>
 
     <script>
-        var img = document.getElementById("profileImage");
-        img.style.display="none";
-        var placeholder = document.querySelector(".placeholder");
-        // placeholder.style.display = "none";
-        
         document.addEventListener("DOMContentLoaded", function () {
             var img = document.getElementById("profileImage");
             var placeholder = document.querySelector(".placeholder");
 
             img.onload = function () {
+                // Display the actual image and hide the placeholder
                 img.style.display = "block";
                 placeholder.style.display = "none";
             };
 
-            //img.src = "resources/photo.png";
+            // Set the actual image source
+            img.src = "resources/photo.png";
         });
     </script>
 </body>
