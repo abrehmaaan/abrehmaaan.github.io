@@ -23,8 +23,8 @@
 - Alejandro Leyva, Abdul Rehman Akbar, Muhammad Khalid Khan Niazi. Predicting protein cascade expression from H&E images. PLOS Computational Biology, 22(5), e1014262 (2026).
 - Usman Afzaal, Ziyu Su, Usama Sajjad, Thomas Stack, Hao Lu, Shuo Niu, Abdul Rehman Akbar, Metin Nafi Gurcan, Muhammad Khalid Khan Niazi. HistoChat: Instruction-tuning multimodal vision language assistant for colorectal histopathology on limited data. Patterns (Cell Press), 6(8), 101284 (2025).
 - Abdul Rehman Akbar, Usama Sajjad, Wei Chen, Anil Parwani, Muhammad Khalid Khan Niazi. Histology-based deep learning for tissue-sparing molecular triage of actionable oncogenic mutations in colorectal cancer. Signal Transduction and Targeted Therapy (2026). [Under review]
-- Ziyu Su, Abdul Rehman Akbar, Usama Sajjad, Anil V. Parwani, Muhammad Khalid Khan Niazi. Streamline pathology foundation model by cross-magnification distillation. Medical Image Analysis (2025). [Under revision]
-- Alejandro Leyva, Abdul Rehman Akbar, Muhammad Khalid Khan Niazi. Predicting methylation-based replication timing from whole slide images. Biomedical Signal Processing and Control (2025). [Under review]
+- Ziyu Su, Abdul Rehman Akbar, Usama Sajjad, Anil V. Parwani, Muhammad Khalid Khan Niazi. Streamline pathology foundation model by cross-magnification distillation. Medical Image Analysis, in press (2026). [Accepted]
+- Alejandro Leyva, Abdul Rehman Akbar, Muhammad Khalid Khan Niazi. Predicting methylation-based replication timing from whole slide images. Biomedical Signal Processing and Control (2026). https://www.sciencedirect.com/science/article/pii/S1746809426018720
 - Abdul Rehman Akbar, Usama Sajjad, Alejandro Leyva, Elshad Hasanov, Arya Roy, Daniel Stover, Wencheng Li, Ashish Manne, Wei Chen, Anil Parwani, Muhammad Khalid Khan Niazi. GenoGlyph: Pan-cancer genomic mutation inference and risk stratification from diagnostic histopathology slides. Research Square (2026). [Preprint] https://doi.org/10.21203/rs.3.rs-10158096/v1
 - Abdul Rehman Akbar, Samuel Wales-McGrath, Alejandro Leyva, Lina Gokhale, Rajendra Singh, Wei Chen, Anil Parwani, Muhammad Khalid Khan Niazi. PathoScribe: Transforming pathology data into a living library with a unified LLM-driven framework for semantic retrieval and clinical integration. arXiv, 2603.08935 (2026). [Preprint] https://arxiv.org/abs/2603.08935
 - Abdul Rehman Akbar, Muhammad Khalid Khan Niazi. Artificial intelligence (imaging analysis) fundamentals. Book chapter in Advances in Digital Pathology and Artificial Intelligence in Pathology (2026). [Book chapter]
@@ -39,3 +39,8 @@
 - Best Platform Presentation, Pathology Research Retreat, Department of Pathology, The Ohio State University (May 2026)
 - Best Platform Presentation, EHIRS, OSU Biomedical Engineering Society (Jan 2026)
 - Complimentary Travel and Accommodation Award, Pathology Visions 2025, Digital Pathology Association (May 2025)
+- Vice Chancellor's Medal, top achiever in Computer Science, 11th Convocation, Quaid-i-Azam University, Islamabad, Pakistan (Dec 2024)
+- 1st Place, Mental Health Rewired Build-A-Thon, Wake Forest University Center for Remote Health Monitoring (Dec 2024)
+- Emerging Brilliance Award, Expertflow (Dec 2023)
+- KAIST EE Summer Camp (selected participant), Department of Electrical Engineering, KAIST (Aug 2023)
+- 1st Place, On-Spot Programming, 8th ExcITe Cup, Capital University of Science and Technology (May 2023)
