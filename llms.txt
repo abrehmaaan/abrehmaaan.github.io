@@ -1,0 +1,41 @@
+# Abdul Rehman Akbar
+
+> Abdul Rehman Akbar is a PhD candidate in Biomedical Engineering at The Ohio State University (AI4Path Lab) building deep learning models that predict cancer recurrence, molecular subtypes, and gene mutations from H&E whole-slide images.
+
+- Position: PhD Candidate, Biomedical Engineering, The Ohio State University; Graduate Research Associate, AI4Path Lab, Department of Pathology, OSU Wexner Medical Center
+- Advisor: Dr. Muhammad Khalid Khan Niazi
+- Research: computational pathology; deep learning on H&E whole-slide images for cancer recurrence, molecular subtyping, and gene mutation prediction; LLMs for pathology reports
+- Named methods: PathRosetta (lung adenocarcinoma recurrence), GenoGlyph (pan-cancer mutation inference), PanSubNet (pancreatic cancer subtyping), PathoScribe (LLM pathology report retrieval)
+
+## Profiles
+
+- [Google Scholar](https://scholar.google.com/citations?user=yBkAOwEAAAAJ&hl=en)
+- [ORCID](https://orcid.org/0009-0004-2352-6360)
+- [GitHub](https://github.com/abrehmaaan)
+- [LinkedIn](https://www.linkedin.com/in/abrehmaaan)
+
+## Publications
+
+- Abdul Rehman Akbar, Usama Sajjad, Ziyu Su, Aniqa Nuzhat Chowdhury, Amber Mai Tran, Fei Xing, Jimmy Ruiz, Anil Parwani, Wei Chen, Wencheng Li, Muhammad Khalid Khan Niazi. A spatially aware deep learning framework for multiscale cellular ecology profiling to predict 5-year recurrence in invasive lung adenocarcinoma. npj Digital Medicine (2026). https://doi.org/10.1038/s41746-026-03264-3
+- Alejandro Leyva, Abdul Rehman Akbar, Muhammad Khalid Khan Niazi. Gene-structured histology for deriving and predicting pancreatic cancer molecular subtypes. Signal Transduction and Targeted Therapy, 11, 433 (2026). https://doi.org/10.1038/s41392-026-03051-2
+- Abdul Rehman Akbar, Alejandro Leyva, Ashwini Esnakula, Elshad Hasanov, Anne Noonan, Lingbin Meng, Susan Tsai, Vaibhav Sahai, Midhun Malla, Sarbajit Mukherjee, Upender Manne, Anil Parwani, Wei Chen, Ashish Manne, Muhammad Khalid Khan Niazi. Inferring clinically relevant molecular subtypes of pancreatic cancer from routine histopathology using deep learning. Communications Medicine (2026). https://doi.org/10.1038/s43856-026-01952-5
+- Usama Sajjad, Abdul Rehman Akbar, Ziyu Su, Deborah Knight, Wendy L. Frankel, Metin N. Gurcan, Wei Chen, Muhammad Khalid Khan Niazi. Morphology-aware prognostic model for 5-year survival prediction in colorectal cancer from H&E whole-slide images. Cancers, 18(7), 1150 (2026).
+- Alejandro Leyva, Abdul Rehman Akbar, Muhammad Khalid Khan Niazi. Predicting protein cascade expression from H&E images. PLOS Computational Biology, 22(5), e1014262 (2026).
+- Usman Afzaal, Ziyu Su, Usama Sajjad, Thomas Stack, Hao Lu, Shuo Niu, Abdul Rehman Akbar, Metin Nafi Gurcan, Muhammad Khalid Khan Niazi. HistoChat: Instruction-tuning multimodal vision language assistant for colorectal histopathology on limited data. Patterns (Cell Press), 6(8), 101284 (2025).
+- Abdul Rehman Akbar, Usama Sajjad, Wei Chen, Anil Parwani, Muhammad Khalid Khan Niazi. Histology-based deep learning for tissue-sparing molecular triage of actionable oncogenic mutations in colorectal cancer. Signal Transduction and Targeted Therapy (2026). [Under review]
+- Ziyu Su, Abdul Rehman Akbar, Usama Sajjad, Anil V. Parwani, Muhammad Khalid Khan Niazi. Streamline pathology foundation model by cross-magnification distillation. Medical Image Analysis (2025). [Under revision]
+- Alejandro Leyva, Abdul Rehman Akbar, Muhammad Khalid Khan Niazi. Predicting methylation-based replication timing from whole slide images. Biomedical Signal Processing and Control (2025). [Under review]
+- Abdul Rehman Akbar, Usama Sajjad, Alejandro Leyva, Elshad Hasanov, Arya Roy, Daniel Stover, Wencheng Li, Ashish Manne, Wei Chen, Anil Parwani, Muhammad Khalid Khan Niazi. GenoGlyph: Pan-cancer genomic mutation inference and risk stratification from diagnostic histopathology slides. Research Square (2026). [Preprint] https://doi.org/10.21203/rs.3.rs-10158096/v1
+- Abdul Rehman Akbar, Samuel Wales-McGrath, Alejandro Leyva, Lina Gokhale, Rajendra Singh, Wei Chen, Anil Parwani, Muhammad Khalid Khan Niazi. PathoScribe: Transforming pathology data into a living library with a unified LLM-driven framework for semantic retrieval and clinical integration. arXiv, 2603.08935 (2026). [Preprint] https://arxiv.org/abs/2603.08935
+- Abdul Rehman Akbar, Muhammad Khalid Khan Niazi. Artificial intelligence (imaging analysis) fundamentals. Book chapter in Advances in Digital Pathology and Artificial Intelligence in Pathology (2026). [Book chapter]
+- Abdul Rehman Akbar, Rabeeh Ayaz Abbasi, Irfan ul Haq Qureshi, Akmal Saeed Khattak. Classifying text-based conspiracy tweets related to COVID-19 using contextualized word embeddings. MediaEval 2022 Multimedia Evaluation Workshop, Bergen, Norway (2023). [Workshop]
+
+## Selected honors
+
+- Top Abstract Award, OSUCCC – James 2026 Annual Scientific Meeting (Oct 2026)
+- Professional Development Award / Top Abstract Award, CCC-Cures 2026 Research Summit, OSUCCC – James Center for Cancer Engineering (Sep 2026)
+- Most Theatrical, 2026 Research Data Blitz, OSU Biomedical Science Graduate Program (Aug 2026)
+- Complimentary Travel and Accommodation Award, Pathology Visions 2026, Digital Pathology Association (Jun 2026)
+- Best Platform Presentation, Pathology Research Retreat, Department of Pathology, The Ohio State University (May 2026)
+- Best Platform Presentation, EHIRS, OSU Biomedical Engineering Society (Jan 2026)
+- Complimentary Travel and Accommodation Award, Pathology Visions 2025, Digital Pathology Association (May 2025)
